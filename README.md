@@ -1,26 +1,27 @@
 # Data-Analyst-Portfolio
 
 ## Project 1: Investigate a dataset called TMDb movie data.
-I was provided a dataset reflecting data collected from an experiment. I used statistical techniques to answer questions about the data and report my conclusions and recommendations in a report. In this project, I choose one of Udacity's curated datasets and investigate it using NumPy and pandas.I complete the entire data analysis process, starting by posing a question and finishing by sharing the findings.
+I was given a dataset including data from an experiment. I employed statistical approaches to address data questions and report my findings and suggestions. In this project, I analyze one of Udacity's curated datasets using NumPy and pandas. I perform the full data analysis process, beginning with analytical questions and ending with sharing of my findings.
 
 ## Project 2: Data Wrangling and Analysis with Tweet WeRateDogs data
 Subjects Covered:
 
 * GATHERING DATA:
-Gather data from multiple sources, including gathering files, programmatically downloading files, web-scraping data, and accessing data from APIs
-Import data of various file formats into pandas, including flat files (e.g. TSV), HTML files, TXT files, and JSON files
-Store gathered data in a PostgreSQL database
+Collect data from a variety of sources, including gathering files, programmatically downloading files, online scraping data, and API access.
+Import data into pandas in a variety of file types, including flat files (e.g., TSV), HTML files, TXT files, and JSON files.
+
 * ASSESSING DATA
-Assess data visually and programmatically using pandas
-Distinguish between dirty data (content or “quality” issues) and messy data (structural or “tidiness” issues)
-Identify data quality issues and categorize them using metrics: validity, accuracy, completeness, consistency, and uniformity
+Using pandas, I evaluate data visually and programmatically.
+I distinguish between dirty data ("quality problems") and messy data ("tidiness issues").
+I identify data quality concerns using criteria such as validity, correctness, completeness, consistency, and uniformity.
+
 * CLEANING DATA
-Identify each step of the data cleaning process (defining, coding,and testing)
-Clean data using Python and pandas
-Test cleaning code visually and programmatically using Python
+Identify each stage in the data cleansing procedure (defining, coding,and testing)
+Python and pandas is used to clean data.
+Python is used to test cleaned code both visually and programmatically
 
 ## Project 3: Data Visulization with Diamond Data
 Data visualization to a dataset involving the characteristics of diamonds and their prices.
 
 ## Project 4: Data Visualization with Communicate data finding with Ford Go Bike Sharing Data
-In this project, I used Python’s data visualization tools to systematically explore the bike dataset for its properties and relationships between variables. Then, I created a presentation that communicates the findings to others.
+I utilized Python's data visualization capabilities in this project to methodically investigate the bike dataset for attributes and correlations between variables. Then I built a presentation to share my results with others.
